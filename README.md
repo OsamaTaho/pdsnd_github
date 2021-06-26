@@ -42,5 +42,7 @@ first it asks you which city you want to explore, and then gives you the choice 
     - washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+LONG LIVE UDACITY
+LONG LIVE UDACITY TEAM
+
 
