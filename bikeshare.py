@@ -211,10 +211,10 @@ def check_for_month():
         month='5'
     elif month in ['6','jun']:
         month='6'
-    #elif month in ['7','jul']:
-    #    month='7'
-    #elif month in ['8','aug']:
-    #    month='8'
+    #elif month in ['7','jul']:                                 # Because the datasets don't have
+    #    month='7'                                                any month past June, so we had 
+    #elif month in ['8','aug']:                                   to force to choosing one of the
+    #    month='8'                                                provided months :)
     #elif month in ['9','sep']:
     #    month='9'
     #elif month in ['10','oct']:
