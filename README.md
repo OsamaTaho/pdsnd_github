@@ -42,11 +42,5 @@ first it asks you which city you want to explore, and then gives you the choice 
     - washington.csv
 
 ### Credits
-LONG LIVE UDACITY
-LONG LIVE UDACITY TEAM
-
-### News
-I just got graduated from this Nanodegree (LEEEEEEEETS GOOOOOOOOOOOOOOOOOOOO)
-if you get to see this file and wanted to say someting? throw a pull request
-with your comment under this section. 100% gonna be accepted :thumbsup: 
+    Udacity
 
