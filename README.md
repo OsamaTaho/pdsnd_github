@@ -32,7 +32,7 @@ first it asks you which city you want to explore, and then gives you the choice 
 
     - Asks if you want to see Raw data, if yes it shows 5 rows then asks again, if yes it shows 5 more.
 
-    - Asks if you want to restart to steps again.
+    - Asks if you want to restart the whole process again.
 
 
 ### Files used
